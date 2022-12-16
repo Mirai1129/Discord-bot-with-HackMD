@@ -1,4 +1,4 @@
 test/
 *pyc
-.env
+*env
 test.py
