@@ -9,7 +9,6 @@ from dotenv import load_dotenv
 
 bot = commands.Bot()
 
-bot.load_extension("main")
 bot.load_extension("hackmd_request")
 
 
@@ -38,4 +37,4 @@ async def ping(interaction: nextcord.Interaction):
 #     await interaction.send(f'現在時間是: <t:{int(time.time())}:F>', ephemeral=True)
 
 load_dotenv()
-bot.run(os.getenv('TOKEN'))
+bot.run(os.getenv('DISCORD_TOKEN'))
