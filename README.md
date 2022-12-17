@@ -25,9 +25,8 @@ DISCIRD_TOKEN = YOUR DISCORD TOKEN
 HACKMD_TOKEN = YOUR HACKMD TOKEN
 ```
 
-:::info
-建議把機器人指令部分改為***Slash command***，以便跟上Discord的整合化，||偷偷告訴你們，擁有***Slash command***的機器人可以拿到[badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge)喔。||
-:::
+
+建議把機器人指令部分改為***Slash command***，以便跟上Discord的整合化。
 
 ## 參考資料
 
