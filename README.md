@@ -1,18 +1,3 @@
----
-title: Integration with Discord
-description: The Discord bot with HackMD-API
-tags: HackMD-Theme, HackMD-API, Discord-API
-author: Mirai
----
-
-{%hackmd @themes/dracula %}
-
-# Discord Integration | Discord 整合
-
-|Suggested by|Description|HackMD Profile
-|--|--|--|
-未來|Discord| [@Mirai1129](https://hackmd.io/@Mirai1129)
-
 ## Introduce
 
 把Discord bot結合HackMD api，藉由Discord bot查詢自己的使用者資料，在未來希望能夠直接利用機器人寫筆記。
