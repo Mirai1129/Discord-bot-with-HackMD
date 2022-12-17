@@ -5,7 +5,7 @@ import requests
 import os
 from dotenv import load_dotenv
 
-TESTING_GUILD_ID = 479164051230818306  # Replace with your testing guild id
+TESTING_GUILD_ID = your testing guild id  # Replace with your testing guild id
 
 load_dotenv()
 
