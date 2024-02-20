@@ -2,16 +2,18 @@
 
 把 Discord bot 結合 HackMD api，藉由 Discord bot 查詢自己的使用者資料，在未來希望能夠直接利用機器人寫筆記。
 
-## Required
+## Requirements
 
 1. Python
 2. Requests 套件
-```
-python -m pip install requests
-```
+
+    ```bash
+    python -m pip install requests
+    ```
+
 3. Discord 套件
-([Pycord](https://docs.pycord.dev/en/stable/), [Nextcord](https://docs.nextcord.dev/en/stable/) 類似套件都可以)
-[我用Nextcord簡單做的機器人](https://github.com/Mirai1129/DIscord-bot)。
+    ([Pycord](https://docs.pycord.dev/en/stable/), [Nextcord](https://docs.nextcord.dev/en/stable/) 類似套件都可以)
+    [我用 Nextcord 簡單做的機器人](https://github.com/Mirai1129/DIscord-bot)。
 4. Discord 及 HackMD 的 TOKEN
 
 ## Usage
